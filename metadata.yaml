@@ -35,6 +35,9 @@ contributor:
   - agent_name: Bentley, J. C.
     gutenberg_agent_id: '52619'
     url: http://www.gutenberg.org/2009/agents/52619
+covers:
+- cover_type: archival
+  image_path: 63832-h/images/cover.jpg
 creator:
   author:
     agent_name: Beattie, William
@@ -44,6 +47,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52274
     wikipedia: https://en.wikipedia.org/wiki/William_Beattie_(physician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63832#The-castles-and-abbeys-of-England-Vol-2-of-2-from-the-national-records-early-chronicles-and-o_
 gutenberg_issued: '2020-11-21'
 gutenberg_type: Text
 identifiers:
